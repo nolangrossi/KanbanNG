@@ -49,7 +49,7 @@
 ## Usage
 
 ![kanban-board](./assets/kanban-board_walkthrough.gif)
-Deployed via Render here:
+Deployed via Render here: <https://kanbanng.onrender.com/login>
 
 ### Core Functionality
 
